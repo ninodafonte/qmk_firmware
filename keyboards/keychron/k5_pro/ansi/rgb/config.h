@@ -49,3 +49,9 @@
 #    define CKLED2001_CURRENT_TUNE \
         { 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14, 0x14 }
 #endif
+
+#define RGBLIGHT_LAYERS
+
+#define RGBLIGHT_MAX_LAYERS 4
+
+#define RGBLIGHT_LAYERS_OVERRIDE_RGB_OFF
